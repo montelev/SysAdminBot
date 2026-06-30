@@ -82,17 +82,6 @@ SysAdminBot/
 ├── requirements.txt    # Python dependencies
 ├── .env.example        # API key template (safe to commit)
 └── README.md
-```
-
----
-
-## Resume Entry
-
-> **SysAdminBot: AI-Powered Infrastructure Scripting Tool** | June 2026
-> - Developed a responsive web application using Python and Streamlit to automate repetitive System Administration and Identity Management tasks.
-> - Integrated the Google Gemini API to parse unstructured text inputs and translate them into secure, production-grade PowerShell and Bash scripts.
-> - Optimized system prompt engineering to enforce enterprise security best practices, including inline error handling and secure variable definition.
-> - Managed codebase utilizing Git/GitHub and deployed the functional application to a cloud environment for live stakeholder demonstration.
 
 ---
 
