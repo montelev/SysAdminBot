@@ -3,7 +3,7 @@
 
 SysAdminBot is a web-based automation tool that bridges the gap between plain English and complex infrastructure management. Type a task, choose your environment, and receive a secure, production-ready PowerShell or Bash script — complete with inline comments and error handling.
 
-**Live Demo:** *(deploy to Streamlit Community Cloud and paste URL here)*
+**Live Demo:** *https://sysadmnbot.streamlit.app/*
 
 ---
 
